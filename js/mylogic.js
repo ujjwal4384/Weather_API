@@ -50,7 +50,7 @@ window.addEventListener("load", () => {
         });
 
 
-    }
+    }//Call from different API to get graphics working 
 
     /* function setIcons(icon, iconID) {
          console.log("holaa");
